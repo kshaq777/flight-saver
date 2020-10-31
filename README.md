@@ -1,6 +1,6 @@
 # Flight Saver
 ## What it Looks Like
-![Find Your Flight](/images/flightSaverScreen.png)
+![Find Your Flight](./images/flightSaverScreen.png)
 
 ## Core Functionality
 - Search for your departure and destination city with autocomplete
